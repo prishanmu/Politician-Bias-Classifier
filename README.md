@@ -27,9 +27,13 @@ For the classifier we decided that ‘bias’ was the target variable. We used G
 3. Clustering:
 In order to decide the number of clusters necessary, we created an Elbow Plot. This recommended around 4 clusters. Using the KMeans model, we clustered the data into 4 clusters and compared averages of features based across clusters. Then, we conducted an ANOVA to see if there was a significant difference in bias between clusters. 
 
+4. Classification Using Deep Learning: 
+This work is in progress and an extension of the final project. Priya is currently trying to build a classifier using deep learning methods. 
+
 **Files in this Repo**
 
 * Jupyter Notebook: Final_Project.ipynb
+* Jupyter Notebook: Classifying_Partisianship_Using_Deep_Learning.ipynb
 
 Please contact us directly if you would like to see our final poster. 
 
