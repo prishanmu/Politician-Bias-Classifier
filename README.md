@@ -1,5 +1,7 @@
 # Classifying Partisanship in Politicians’ Social Media Posts
 
+SI 670 (Applied Machine Learning) Final Project
+
 **Authors**: Maryam Seifeldin (https://github.com/mseifeldin) and Priyanka Shanmugasundaram (https://github.com/prishanmu)
 
 **Filtering, encoding, and text-preprocessing code credit to**: https://www.kaggle.com/laiquet/neutral-and-partisan-tweets-posts
